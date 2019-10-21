@@ -8,6 +8,13 @@
 #
 
 
+Interface
+https://www.geeksforgeeks.org/interfaces-in-java/
+https://www.guru99.com/java-interface.html
+Abstract Class
+https://www.geeksforgeeks.org/abstract-classes-in-java/
+https://www.guru99.com/interface-vs-abstract-class-java.html
+
 
 
 
